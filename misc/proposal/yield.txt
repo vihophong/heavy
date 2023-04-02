@@ -1,0 +1,64 @@
+! [1] Total: this reaction   (pps)
+! <sup>238 </sup>U (345 MeV/u) + Be (5 mm); &nbsp; Settings on <sup>138 </sup>Sn<sup> 50+</sup><sup>..</sup><sup> 50+</sup>; &nbsp;<small><font color=darkgreen>Config:</font> D|<sup>b</sup>|<sub>w</sub>D|<sup>b</sup>|<sup>b</sup><sub>m</sub><sub>m</sub><sub>m</sub>DD<sub>m</sub>|<sub>w</sub><sub>m</sub>DD<sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub>|<sub>m</sub><sub>m</sub><sup>b</sup><sub>m</sub>|<sub>m</sub><sub>m</sub><sub>m</sub>D|<sub>m</sub><sub>m</sub><sup>b</sup><sup>b</sup>|<sub>w</sub><sub>m</sub><sub>m</sub>D<sub>m</sub>|<sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sup>d</sup><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>m</sub><sub>a</sub></small>
+! dp/p=6.00%; &nbsp; Wedges: Al (4 mm), Al (2 mm), Al (3.5 mm); &nbsp; Brho(Tm): 7.5000, 6.6585, 6.6234, 6.6234, 6.1125....
+! N=0-200
+! 	Neutrons (N)	Protons (Z)	Value [pps]
+84	51	0.095218
+84	52	0.3083
+84	53	0.089065
+85	46	1.1294e-07
+85	47	1.0697e-06
+85	48	0.00014753
+85	49	0.047436
+85	50	6.0781
+85	51	2.6648
+85	52	9.4829
+85	53	5.2131
+86	47	7.6299e-08
+86	48	0.0013712
+86	49	0.49271
+86	50	94.106
+86	51	46.75
+86	52	375.85
+86	53	266.51
+86	54	1.8265
+87	48	2.6077e-07
+87	49	0.027708
+87	50	11.708
+87	51	10.701
+87	52	193.49
+87	53	390.44
+87	54	43.74
+88	48	4.7315e-08
+88	49	0.0012928
+88	50	0.42279
+88	51	79.594
+88	52	45.035
+88	53	229.49
+88	54	175.48
+88	55	0.0022436
+89	49	6.4811e-08
+89	50	0.0052778
+89	51	1.9693
+89	52	171.72
+89	53	51.183
+89	54	79.708
+89	55	6.4879
+90	49	2.6079e-09
+90	50	0.00011311
+90	51	0.031364
+90	52	6.0412
+90	53	3.3173
+90	54	8.7954
+90	55	9.0832
+90	56	1.0246e-05
+91	51	8.6182e-06
+91	52	0.0019305
+91	53	0.1507
+91	54	0.021656
+91	55	0.019803
+91	56	0.00016254
+92	52	2.7997e-10
+92	53	2.4477e-08
+92	54	2.6388e-08
+92	55	1.9799e-10
