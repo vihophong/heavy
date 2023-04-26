@@ -494,12 +494,12 @@ void anaTOF(char* infile,char* parmsfile, char* outfile,Int_t nbins = 600){
 
     ofstream ofs(outfile);
     ofs<<"Peak positions"<<endl;
-    ofs<<"id,value,error"<<std::setprecision(15)<<endl;
+    ofs<<"Peak ID,Peak Name,value,error"<<std::setprecision(15)<<endl;
     for (Int_t i=0;i<sizeparms;i++){
         if (parms.peakNo[i]>=0 && parms.index[i]==0){
             RooRealVar* pvar=(RooRealVar*) p[i];
             Double_t peakPos = pvar->getVal()+ROIs[parms.peakNo[i]]->peakpos;
-            ofs<<parms.peakNo[i]<<","<<peakPos<<","<<pvar->getError()<<endl;
+            ofs<<parms.peakNo[i]<<","<<ROIs[parms.peakNo[i]]->name<<","<<peakPos<<","<<pvar->getError()<<endl;
         }
     }
     ofs<<endl;
