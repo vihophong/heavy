@@ -1,0 +1,179 @@
+#include <iostream>
+#include <time.h>
+
+#include <bitset>
+#include <stdint.h>
+#include <vector>
+#include <map>
+
+#include <TSystem.h>
+#include <TROOT.h>
+#include <TH1.h>
+#include <TH2.h>
+#include <TAxis.h>
+#include <TPad.h>
+#include <TFile.h>
+#include <TTree.h>
+#include <TLine.h>
+#include <TRandom.h>
+#include <TString.h>
+#include <TCanvas.h>
+#include <TStyle.h>
+
+
+#include <RooDataSet.h>
+#include <RooArgList.h>
+#include <RooPlot.h>
+#include <RooAddPdf.h>
+
+#include <vector>
+#include "fitF.hh"
+using namespace std;
+
+
+using namespace RooFit;
+
+class fitF;
+
+typedef struct parms_t
+{
+    Double_t val[MAX_N_PARMS+MAX_NPEAKS];
+    Double_t min[MAX_N_PARMS+MAX_NPEAKS];
+    Double_t max[MAX_N_PARMS+MAX_NPEAKS];
+    Bool_t isFix[MAX_N_PARMS+MAX_NPEAKS];
+}parms_t;
+
+RooAbsPdf* FitData(RooRealVar *x, RooDataSet* data, parms_t* parms,Int_t npeaks)
+{
+
+    RooAbsReal* p[MAX_N_PARMS+MAX_NPEAKS];
+    RooRealVar* pvar[MAX_N_PARMS+MAX_NPEAKS];
+    for (Int_t i=0;i<npeaks+MAX_N_PARMS-1+npeaks-1;i++){
+        p[i]=new RooRealVar(Form("p%d",i),Form("p%d",i),10,0,20);
+        pvar[i]=(RooRealVar*) p[i];
+
+        pvar[i]->setMax(parms->max[i]);
+        pvar[i]->setMin(parms->min[i]);
+        pvar[i]->setVal(parms->val[i]);
+        pvar[i]->setConstant(parms->isFix[i]);
+    }
+    fitF* fitmodel[MAX_NPEAKS];
+
+    RooArgList listmodel("listmodel");
+
+
+    for (Int_t i=0;i<npeaks;i++){
+        RooAbsReal* pp[MAX_N_PARMS];
+        pp[0] = pvar[i];
+        pp[1] = pvar[npeaks];
+        pp[2] = pvar[npeaks+1];
+        pp[3] = pvar[npeaks+2];
+        fitmodel[i]=new fitF(Form("fitFcn%d",i),Form("fitFcn%d",i),*x,pp);
+        listmodel.add(*fitmodel[i]);
+    }
+    RooArgList listcoef("listcoef");
+    for (Int_t i=0;i<npeaks-1;i++){
+        listcoef.add(*p[npeaks+3+i]);
+    }
+    RooAbsPdf* finalfitmodel = new RooAddPdf("finalmodel","finalmodel",listmodel,listcoef);
+    return finalfitmodel;
+}
+
+void anaTOF(char* infile){
+    //////////////////////////////////////////////////////////
+    //   This file has been automatically generated
+    //     (Tue Mar  7 15:15:24 2023 by ROOT version6.22/08)
+    //   from TTree tree/tree
+    //   found on file: rootfiles/run5_0.root
+    //////////////////////////////////////////////////////////
+
+
+    //Reset ROOT and connect tree file
+    gROOT->Reset();
+    TTree* tree = NULL;
+    TFile *f = (TFile*)gROOT->GetListOfFiles()->FindObject(infile);
+    if (!f) {
+        f = new TFile(infile);
+    }
+//    f->GetObject("tree",tree);
+    f->GetObject("tree_drift_corr",tree);
+
+    //Declaration of leaves types
+    UInt_t          fUniqueID;
+    UInt_t          fBits;
+    Long64_t        ts;
+    Double_t        tof1;
+    Double_t        tof2;
+    Double_t        e;
+    Double_t        vetot;
+    vector<float>   pulsestart1;
+    vector<float>   pulsestart2;
+    vector<float>   pulsestop;
+    vector<float>   pulsecfdstop;
+
+    // Set branch addresses.
+    tree->SetBranchAddress("fUniqueID",&fUniqueID);
+    tree->SetBranchAddress("fBits",&fBits);
+    tree->SetBranchAddress("ts",&ts);
+    tree->SetBranchAddress("tof1",&tof1);
+    tree->SetBranchAddress("tof2",&tof2);
+    tree->SetBranchAddress("e",&e);
+    tree->SetBranchAddress("vetot",&vetot);
+    tree->SetBranchAddress("pulsestart1",&pulsestart1);
+    tree->SetBranchAddress("pulsestart2",&pulsestart2);
+    tree->SetBranchAddress("pulsestop",&pulsestop);
+    tree->SetBranchAddress("pulsecfdstop",&pulsecfdstop);
+    Long64_t nentries = tree->GetEntries();
+
+
+    Long64_t nbytes = 0;
+
+    TFile* f1 = new TFile("test.root","recreate");
+    TTree* treeFit = new TTree("treeFit","treeFit");
+    Double_t xx = 0;
+    treeFit->Branch("x",&xx,"x/D");
+    Double_t fitrangeall[] = {0,20000};
+    Double_t fitrangelow[] = {10000,9440};
+    Double_t fitrangehi[] = {10300,9620};
+
+    for (Long64_t i=0; i<nentries;i++) {
+        nbytes += tree->GetEntry(i);
+        if (vetot==0){
+            xx = tof1;
+            if ((xx<fitrangehi[0] && xx>fitrangelow[0])|(xx<fitrangehi[1] && xx>fitrangelow[1]))
+                treeFit->Fill();
+        }
+    }
+
+    RooRealVar *x=new RooRealVar("x","x",fitrangelow[1],fitrangehi[0]) ;
+    x->setRange("peak0",fitrangelow[0],fitrangehi[0]);
+    x->setRange("peak1",fitrangelow[1],fitrangehi[1]);
+
+    RooDataSet* data = new RooDataSet("data","data",*x,Import(*treeFit));
+
+    Int_t npeaks = 2;
+    parms_t parms;
+    parms.isFix[0] = kFALSE;parms.min[0] = fitrangelow[0];parms.max[0] = fitrangehi[0];parms.val[0] = 10210;
+
+    parms.isFix[1] = kFALSE;parms.min[1] = fitrangelow[1];parms.max[1] = fitrangehi[1];parms.val[1] = 9560;
+
+    parms.isFix[2] = kFALSE;parms.min[2] = 0;parms.max[2] = 100;parms.val[2] = 7.96256;
+    parms.isFix[3] = kFALSE;parms.min[3] = 0;parms.max[3] = 100;parms.val[3] = 0.6;//skewness
+    parms.isFix[4] = kFALSE;parms.min[4] = 0;parms.max[4] = 100;parms.val[4] = 0.845234;//kurtosis
+    parms.isFix[5] = kFALSE;parms.min[5] = 0;parms.max[5] = 1;parms.val[5] = 0.75;//ratio
+
+    RooAbsPdf* fitModel = FitData(x,data,&parms,npeaks);
+
+//    fitModel->fitTo(*data,NumCPU(16),Range("peak0,peak1"),Save(kTRUE),PrintLevel(3));
+    fitModel->fitTo(*data,NumCPU(16),Save(kTRUE),PrintLevel(3));
+
+    TCanvas* c1 = new TCanvas("c1","c1",900,700);
+    c1->cd();
+    Int_t nbins = 5000;
+    RooPlot* xframe0 = x->frame(Title("all fit")) ;
+    data->plotOn(xframe0,Binning(nbins),RooFit::Name("data0n")) ;
+    fitModel->plotOn(xframe0, Range("peak0,peak1"), RooFit::Name("data0nmodel")) ;
+    xframe0->Draw();
+    c1->Draw();
+
+}
