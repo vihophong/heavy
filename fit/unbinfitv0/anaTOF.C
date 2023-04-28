@@ -296,7 +296,9 @@ void anaTOF(char* infile,char* parmsfile, char* outfile,Int_t nbins = 600){
     tree->Print();
     Long64_t nentries = tree->GetEntries();
 
-    TFile* f1 = new TFile("test.root","recreate");
+    char tmpchr[500];
+    sprintf(tmpchr,"%s.root",outfile);
+    TFile* f1 = new TFile(tmpchr,"recreate");
 
 
     getROI(parmsfile,true);
@@ -511,5 +513,8 @@ void anaTOF(char* infile,char* parmsfile, char* outfile,Int_t nbins = 600){
             ofs<<parms.peakNo[i]<<","<<pvar->getVal()<<","<<pvar->getError()<<endl;
         }
     }
+    c1->Write();
+    c2->Write();
+    gDirectory->Write();
 
 }
