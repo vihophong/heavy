@@ -134,9 +134,26 @@ def load_txt(infile):
 				if (T12[-1]!="#"):
 					nubase_alpha.append({"A":A,"Z":Z,"N":N})
 
+		Bb = 0.
+		dBb = 0.
 		# for Beta minus
 		if (len(BR)>2):
 			if ((BR[0:2] == "B-" or BR[0:2] == "EC") and T12_unit!="" and dT12!="" and is_gs and T12_unit!="Zy" and T12_unit!="My" and T12_unit!="Ey" and T12_unit!="Gy" and T12_unit!="Yy" and T12_unit!="Py" and T12_unit!="Ty"):
+				Bbstr = BR.split(";")[0]
+				if Bbstr.find('[')>=0:
+					Bb = float(Bbstr[3:Bbstr.find('[')])
+				else:
+					if (Bbstr[3:]=="?"):
+						Bb = -9999.
+					else:
+						Bbstr = Bbstr[3:].split()
+						if (Bbstr[0][-1]=="#"):
+							Bb = float(Bbstr[0][:-1])
+						else:
+							Bb = float(Bbstr[0])
+						if (len(Bbstr)>1):
+							dBb = float(Bbstr[1])
+					
 				if (T12[-1]!="#"):
 					time_f = time_factor[T12_unit]
 					T12 = time_f * float(T12)
@@ -187,7 +204,7 @@ def load_txt(infile):
 								P2n = float(valP2n[0])
 								if (len(valP2n)>1):
 									dP2n = float(valP2n[1])
-					nubase_bminus.append({"A":A,"Z":Z,"N":N, "T12":T12, "dT12":dT12, "P1n": P1n, "dP1n": dP1n, "P2n": P2n, "dP2n": dP2n})
+					nubase_bminus.append({"A":A,"Z":Z,"N":N, "Bb":Bb ,"dBb":dBb ,"T12":T12, "dT12":dT12, "P1n": P1n, "dP1n": dP1n, "P2n": P2n, "dP2n": dP2n})
 	np.save("nubase_stable.npy",nubase_stable)
 	np.save("nubase_bminus.npy",nubase_bminus)
 	np.save("nubase_bplus.npy",nubase_bplus)
