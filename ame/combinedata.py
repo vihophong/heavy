@@ -101,7 +101,7 @@ for i in range(len(data_masstable)):
 		data_masstable[i]['D_S2n'] = D_S2n_mass
 		data_masstable[i]['is_ex_S2n'] = 1
 		data_masstable[i]['Qb'] = Qb
-		data_masstable[i]['D_Qb'] = D_Qb
+		data_masstable[i]['DQb'] = D_Qb
 		data_masstable[i]['is_ex_Qb'] = 1
 		data_masstable[i]['Qbn'] = Qbn
 		data_masstable[i]['D_Qbn'] = D_Qbn
