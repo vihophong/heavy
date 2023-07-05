@@ -170,8 +170,10 @@ def load_txt(infile):
 							if (val[1][0:4]=="B-n<" or val[1][0:4]=="B-n~" or val[1][0:4]=="B-n>"):
 								if (val[1][0:4]=="B-n<"):
 									P1n = -9999.
+									dP1n = float(val[1][4:])
 								if (val[1][0:4]=="B-n>"):
 									P1n = -9999.
+									dP1n = -float(val[1][4:])
 								if (val[1][0:4]=="B-n~"):
 									valP1n = val[1][4:].split()
 									P1n = float(valP1n[0])
