@@ -137,7 +137,7 @@ def load_txt(infile):
 		Bb = 0.
 		dBb = 0.
 		# for Beta minus
-		if (BR.find('B- ?')>=0 or BR.find('B-=')>=0 or BR.find('B- ~')>=0 or BR.find('B-<')>=0 or BR.find('EC')>=0) and BR.find('2B- ?')<0:
+		if (BR.find('B- ?')>=0 or BR.find('B-=')>=0 or BR.find('B- ~')>=0 or BR.find('B-<')>=0 or (BR.find('EC')>=0 and BR.find('B+')<0)) and BR.find('2B- ?')<0:
 			if (T12_unit!="" and dT12!="" and is_gs and T12_unit!="Zy" and T12_unit!="My" and T12_unit!="Ey" and T12_unit!="Gy" and T12_unit!="Yy" and T12_unit!="Py" and T12_unit!="Ty"):
 				# Bbstr = BR.split(";")[0]
 				tmp = BR.split(";")
