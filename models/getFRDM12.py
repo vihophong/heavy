@@ -106,7 +106,7 @@ def load_txt(infile):
 		(Z,N,A,e2,e3,e4,e6,b2,b3,b4,b6,Esp,Emic,Ebind,Mth,Mexp,sexp,EFLmic,MFLth) = map(lambda x: x.decode('utf-8').strip(),(Z,N,A,e2,e3,e4,e6,b2,b3,b4,b6,Esp,Emic,Ebind,Mth,Mexp,sexp,EFLmic,MFLth))
 		(Z,N,A) = map(lambda x: int(x),(Z,N,A))
 		(e2,e3,e4,e6,b2,b3,b4,b6,Esp,Emic,Ebind,Mth,Mexp,sexp,EFLmic,MFLth) = map(lambda x: float(x) if len(x)>0 == 0 else -999999,(e2,e3,e4,e6,b2,b3,b4,b6,Esp,Emic,Ebind,Mth,Mexp,sexp,EFLmic,MFLth))
-		datafrdm.append({"ZA": Z*1000+N+Z,"N": N,"Z": Z,"A": N+Z,"EL": getnamebyz(Z),"Ebind":Ebind,"Mth":Mth})
+		datafrdm.append({"ZA": Z*1000+N+Z,"N": N,"Z": Z,"A": N+Z,"EL": getnamebyz(Z),"Ebind":Ebind,"Mth":Mth,"b2":b2,"b4":b4})
 	return datafrdm
 
 Mn_MeV = 8.07131806
@@ -147,10 +147,15 @@ def getdriplines():
 		if (S1n>0 and S2n>0 and S1p>0 and S2p>0):
 			isbound = True
 		
-		data_bound.append({"ZA": datafrdm[i]["ZA"],"N": datafrdm[i]["N"],"Z": datafrdm[i]["Z"],"A": datafrdm[i]["A"],"EL": datafrdm[i]["EL"],"Ebind":datafrdm[i]["Ebind"],"mass":datafrdm[i]["Mth"],"S1n":S1n,"S2n":S2n,"S1p":S1p,"S2p":S2p,"Qb":Qb,"Qbn":Qbn,"isbound":isbound})
+		data_bound.append({"ZA": datafrdm[i]["ZA"],"N": datafrdm[i]["N"],"Z": datafrdm[i]["Z"],"A": datafrdm[i]["A"],"EL": datafrdm[i]["EL"],"Ebind":datafrdm[i]["Ebind"],"mass":datafrdm[i]["Mth"],"S1n":S1n,"S2n":S2n,"S1p":S1p,"S2p":S2p,"Qb":Qb,"Qbn":Qbn,"isbound":isbound,"b2":datafrdm[i]["b2"],"b4":datafrdm[i]["b4"]})
 	return data_bound
 data_bound = getdriplines()
 # np.save("data_frdm12.npy",data_bound)
+
+def mass_excess_keV_to_amass(mass_excess,A):
+    u1 = 931494.10242
+#     u1 = 931493.86
+    return mass_excess/u1 + A
 
 def getGSoddodd(jp=3./2.,jn=7./2.):
     jjp = jp*(jp+1)
@@ -212,6 +217,7 @@ def append_spin(infile_spin):
 			# 	print("OK",Z,A,pspin,nspin,len(JslowestdE),JslowestdE[0],lowestE)
 		data_bound[i]["spin"] = GSspin
 		data_bound[i]["parity"] = GSparity
+		data_bound[i]["amass"] = mass_excess_keV_to_amass(data_bound[i]["mass"]*1000,A)
 		
 	# print(sumdiffZ,sumdiffN,sumdiffA)
 		
