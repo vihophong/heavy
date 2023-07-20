@@ -150,6 +150,72 @@ def getdriplines():
 		data_bound.append({"ZA": datafrdm[i]["ZA"],"N": datafrdm[i]["N"],"Z": datafrdm[i]["Z"],"A": datafrdm[i]["A"],"EL": datafrdm[i]["EL"],"Ebind":datafrdm[i]["Ebind"],"mass":datafrdm[i]["Mth"],"S1n":S1n,"S2n":S2n,"S1p":S1p,"S2p":S2p,"Qb":Qb,"Qbn":Qbn,"isbound":isbound})
 	return data_bound
 data_bound = getdriplines()
+# np.save("data_frdm12.npy",data_bound)
+
+def getGSoddodd(jp=3./2.,jn=7./2.):
+    jjp = jp*(jp+1)
+    jjn = jn*(jn+1)
+    Jlow = abs(jn-jp)
+    Jhi = jn+jp
+    # print(Jlow,Jhi)
+    Js = np.arange(Jlow,Jhi+1)
+    JJs = [i*(i+1) for i in Js]
+    lowestdE = 1
+    dEs = []
+    for idx,JJ in enumerate(JJs):
+        dE = -((JJ-jjn-jjp)**2 - (JJ-jjn-jjp))/4/(jjn*jjp)**(0.5)
+        dEs.append(dE)
+        if (dE<lowestdE):
+            lowestdE = dE
+    
+    JslowestdE = []
+    for idx,J in enumerate(Js):
+        if (dEs[idx]==lowestdE):
+            JslowestdE.append(J)
+        
+    return JslowestdE,lowestdE,Js,dEs
+
+def append_spin(infile_spin):
+	file1 = open(infile_spin);
+	count = 0
+	data_bound_wspin=[]
+	sumdiffZ = 0
+	sumdiffN = 0
+	sumdiffA = 0
+	for i in range(len(data_bound)):
+		line1 = file1.readline()
+		line1 = line1[0:len(line1)-1]
+		line1 = bytes(line1,encoding='utf8')
+		(Z,pspin,N,nspin,A,nspinsph,nspinsph,b2,b3) = struct.unpack("5s7s5s7s6s10s10s10s10s",line1)
+		(Z,N,A) = map(lambda x: int(x),(Z,N,A))
+		(pspin,nspin,nspinsph,nspinsph,b2,b3) = map(lambda x: float(x),(pspin,nspin,nspinsph,nspinsph,b2,b3))
+		diffZ = Z-data_bound[i]["Z"]
+		diffN = N-data_bound[i]["N"]
+		diffA = A-data_bound[i]["A"]
+		sumdiffZ+=diffZ
+		sumdiffN+=diffN
+		sumdiffA+=diffA
+		if (diffZ!=0 or diffN!=0 or diffA!=0):
+			print("difference found!",data_bound[i])
+		data_bound[i]["pspin"] = pspin
+		data_bound[i]["nspin"] = nspin
+		pparity = -1 if pspin < 0. else 1
+		nparity = -1 if nspin < 0. else 1
+		GSparity = pparity*nparity
+		GSspin = abs(pspin+nspin)
+		if (pspin!=0. and nspin!=0.):
+			JslowestdE,lowestE,_,_ = getGSoddodd(abs(pspin),abs(nspin))
+			GSspin = JslowestdE[0]
+			if (len(JslowestdE) != 1):
+				print("more than 1 minima or no",Z,A,pspin,nspin,len(JslowestdE))
+			# else:
+			# 	print("OK",Z,A,pspin,nspin,len(JslowestdE),JslowestdE[0],lowestE)
+		data_bound[i]["spin"] = GSspin
+		data_bound[i]["parity"] = GSparity
+		
+	# print(sumdiffZ,sumdiffN,sumdiffA)
+		
+append_spin("spinzandn-beta-2018.dat.txt")
 np.save("data_frdm12.npy",data_bound)
 
 def drawbox(N,Z,fcolor='None',ecolor='gray', falpha = 1):
@@ -167,8 +233,9 @@ def drawbox(N,Z,fcolor='None',ecolor='gray', falpha = 1):
 for i in range(len(data_bound)):
 	if (data_bound[i]["isbound"]):
 		plt.gca().add_patch(drawbox(data_bound[i]["N"],data_bound[i]["Z"],fcolor='gray',ecolor='None',falpha = 0.5))
-	if (data_bound[i]["Z"]==50):
-		print(data_bound[i]["N"],data_bound[i]["N"]*8.07131806+data_bound[i]["Z"]*7.288971064-data_bound[i]["Ebind"],data_bound[i]["mass"],data_bound[i]["Ebind"])
+	if (data_bound[i]["Z"]==49):
+		print(data_bound[i])
+	# 	print(data_bound[i]["N"],data_bound[i]["N"]*8.07131806+data_bound[i]["Z"]*7.288971064-data_bound[i]["Ebind"],data_bound[i]["mass"],data_bound[i]["Ebind"])
 
 plt.xlabel('Neutron number, $N$')
 plt.ylabel('Proton number, $Z$')
