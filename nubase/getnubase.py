@@ -83,6 +83,16 @@ def getA(input):
 		else:
 			return int(sep[1])
 
+def getDVal(valstr,dvalstr):
+    dvalstr_c = dvalstr
+    dotpos = valstr.find(".")
+    dvalout = dvalstr
+    if (dotpos>=0):
+        for i in range(len(valstr)-len(dvalstr)):
+            dvalstr_c="0"+dvalstr_c
+        dvalout = dvalstr_c[:dotpos+1]+"."+dvalstr_c[dotpos+1:]
+    return float(dvalout)
+
 def load_txt(infile):
 	"""
 	Load nubase file and write it to an array of dictionaries
@@ -201,9 +211,14 @@ def load_txt(infile):
 					myT12 = time_f * float(T12)
 					mydT12 = time_f * float(dT12)
 					P1n = 0.
+					P1n_raw = ""
 					dP1n = 0.
+					dP1n_raw = ""
+
 					P2n = 0.
+					P2n_raw = ""
 					dP2n = 0.
+					dP2n_raw = ""
 					if (BR.find("B-n")!=-1):
 						if (BR.find("B-n ?")!=-1 or BR.find("B-n=?")!=-1 or BR.find("B-n= ?")!=-1):
 							P1n = -9999.
@@ -224,8 +239,14 @@ def load_txt(infile):
 							else:
 								valP1n = val[1][4:].split()
 								P1n = float(valP1n[0])
+								P1n_raw = valP1n[0]
 								if (len(valP1n)>1):
+									dP1n_raw = valP1n[1]
 									dP1n = float(valP1n[1])
+									if (dP1n_raw.find(".")<0):
+										dP1n = getDVal(P1n_raw,dP1n_raw)
+									else:
+										print(A,getnamebyz(Z),N,P1n_raw,dP1n_raw)
 					if (BR.find("B-2n")!=-1):
 						if (BR.find("B-2n ?")!=-1 or BR.find("B-2n=?")!=-1 or BR.find("B-2n= ?")!=-1):
 							P2n = -9999.
@@ -246,9 +267,16 @@ def load_txt(infile):
 							else:
 								valP2n = val[2][5:].split()
 								P2n = float(valP2n[0])
+								P2n_raw = valP2n[0]
 								if (len(valP2n)>1):
+									dP2n_raw = valP2n[1]
 									dP2n = float(valP2n[1])
-					nubase_bminus.append({"A":A,"Z":Z,"N":N, "Bb":Bb ,"dBb":dBb ,"T12":myT12, "dT12":mydT12, "P1n": P1n, "dP1n": dP1n, "P2n": P2n, "dP2n": dP2n})
+									if (dP2n_raw.find(".")<0):
+										dP2n = getDVal(P2n_raw,dP2n_raw)
+									else:
+										print(A,getnamebyz(Z),N,P2n_raw,dP2n_raw)
+					nubase_bminus.append({"A":A,"Z":Z,"N":N, "Bb":Bb ,"dBb":dBb ,"T12":myT12, "dT12":mydT12, "P1n": P1n,"P1n_raw": P1n_raw, "dP1n": dP1n,"dP1n_raw": dP1n_raw, 
+					"P2n": P2n, "P2n_raw": P2n_raw,"dP2n": dP2n,"dP2n_raw": dP2n_raw})
 	np.save("nubase_stable.npy",nubase_stable)
 	np.save("nubase_bminus.npy",nubase_bminus)
 	np.save("nubase_bplus.npy",nubase_bplus)
