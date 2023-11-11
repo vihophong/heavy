@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import BoundaryNorm
 from matplotlib.ticker import MaxNLocator
 
-time_factor = {'ns':0.000000001,'us':0.000001,'s':1., 'y':31536000., 'ms': 0.001, 'd' : 86400., 'ky' : 31536000000, 'm' : 60., 'h': 3600.}
+time_factor = {'as':0.000000000000000001, 'ns':0.000000001,'us':0.000001,'s':1., 'y':31536000., 'ms': 0.001, 'd' : 86400., 'ky' : 31536000000, 'm' : 60., 'h': 3600.}
 
 elements={"h": 1, "he": 2, "li": 3, "be": 4, "b": 5, "c": 6, "n": 7, "o": 8, "f": 9, "ne": 10, "na": 11, "mg": 12, "al": 13, 
 "si": 14, "p": 15, "s": 16, "cl": 17, "ar": 18, "k": 19, "ca": 20, "sc": 21, "ti": 22, "v": 23, "cr": 24, "mn": 25, "fe": 26,
@@ -110,9 +110,9 @@ def load_txt(infile):
 			for i in range(220-len(line1)):
 				line1 = line1+" "
 		line1 = bytes(line1,encoding='utf8')
-
 		(A,Zi,Ael,s_type,Mass,dMass,Exc,dExc,Orig,Isom_Unc,Isom_Inv,T12,T12_unit,dT12,Jpi,Ensdf_year,Discov_year,BR) = struct.unpack("3s1x4s3x5s1s1x13s11s12s11s2s1s1s9s2s1x7s14s2s10x4s90s12x",line1)
 		(A,Zi,Ael,s_type,Mass,dMass,Exc,dExc,Orig,Isom_Unc,Isom_Inv,T12,T12_unit,dT12,Jpi,Ensdf_year,Discov_year,BR) = map(lambda x: x.decode('utf-8').strip(),(A,Zi,Ael,s_type,Mass,dMass,Exc,dExc,Orig,Isom_Unc,Isom_Inv,T12,T12_unit,dT12,Jpi,Ensdf_year,Discov_year,BR))
+		
 		
 		# Process data
 		A = int(A)
@@ -129,10 +129,43 @@ def load_txt(infile):
 			if ((BR[0:2] == "B+" or BR[0:2] == "IT") and is_gs and T12_unit!="Zy" and T12_unit!="My" and T12_unit!="Ey" and T12_unit!="Gy" and T12_unit!="Yy" and T12_unit!="Py" and T12_unit!="Ty" and T12_unit!="My"):
 				#if (T12[-1]!="#"):
 				nubase_bplus.append({"A":A,"Z":Z,"N":N})
-		if (len(BR)>1):
-			if (BR[0:1] == "A" and T12_unit!="" and dT12!="" and is_gs and T12_unit!="Zy" and T12_unit!="My" and T12_unit!="Ey" and T12_unit!="Gy" and T12_unit!="Yy" and T12_unit!="Py" and T12_unit!="Ty" and T12_unit!="My"):
+
+
+		Bb = 0.
+		dBb = 0.
+		# for Alpha (update 230901)	
+		if (BR.find('A=')==0 or BR.find('A~')==0 or BR.find(';A~')>=0  or BR.find(';A=')>=0) and BR.find('A= ?')<0:
+			if (T12_unit!="" and dT12!="" and is_gs and T12_unit!="Zy" and T12_unit!="My" and T12_unit!="Ey" and T12_unit!="Gy" and T12_unit!="Yy" and T12_unit!="Py" and T12_unit!="Ty"):
+				
+				tmp = BR.split(";")
+				idxBr = -1
+				for idxtmp,itmp in enumerate(tmp):
+					if (itmp.find('A=')>=0 or itmp.find('A~')>=0):
+						idxBr = idxtmp
+						break
+				Bbstr = tmp[idxBr]
+				# print(A,Z,Bbstr,tmp)
+
+				if Bbstr.find('[')>=0:
+					Bb = float(Bbstr[3:Bbstr.find('[')])
+					# print(line1)
+				else:
+					if (Bbstr[2:]=="?"):
+						Bb = -9999.
+						# print(line1)
+					else:
+						Bbstr = Bbstr[2:].split()
+						if (Bbstr[0][-1]=="#"):
+							Bb = float(Bbstr[0][:-1])
+						else:
+							Bb = float(Bbstr[0])
+						if (len(Bbstr)>1):
+							dBb = float(Bbstr[1])
 				if (T12[-1]!="#"):
-					nubase_alpha.append({"A":A,"Z":Z,"N":N})
+					time_f = time_factor[T12_unit]
+					myT12 =  time_f * float(T12)
+					mydT12 = time_f * float(dT12)
+				nubase_alpha.append({"A":A,"Z":Z,"N":N,"Br":Bb,"dBr":dBb,"T12":myT12,"dT12":mydT12})
 
 		Bb = 0.
 		dBb = 0.
@@ -147,11 +180,11 @@ def load_txt(infile):
 						idxBr = idxtmp
 						break
 				Bbstr = tmp[idxBr]
-				print(A,Z,Bbstr,tmp)
+				# print(A,Z,Bbstr,tmp)
 
 				if Bbstr.find('[')>=0:
 					Bb = float(Bbstr[3:Bbstr.find('[')])
-					print(Bbstr)
+					# print(Bbstr)
 				else:
 					if (Bbstr[3:]=="?"):
 						Bb = -9999.
@@ -163,11 +196,10 @@ def load_txt(infile):
 							Bb = float(Bbstr[0])
 						if (len(Bbstr)>1):
 							dBb = float(Bbstr[1])
-					
 				if (T12[-1]!="#"):
 					time_f = time_factor[T12_unit]
-					T12 = time_f * float(T12)
-					dT12 = time_f * float(T12)
+					myT12 = time_f * float(T12)
+					mydT12 = time_f * float(dT12)
 					P1n = 0.
 					dP1n = 0.
 					P2n = 0.
@@ -216,7 +248,7 @@ def load_txt(infile):
 								P2n = float(valP2n[0])
 								if (len(valP2n)>1):
 									dP2n = float(valP2n[1])
-					nubase_bminus.append({"A":A,"Z":Z,"N":N, "Bb":Bb ,"dBb":dBb ,"T12":T12, "dT12":dT12, "P1n": P1n, "dP1n": dP1n, "P2n": P2n, "dP2n": dP2n})
+					nubase_bminus.append({"A":A,"Z":Z,"N":N, "Bb":Bb ,"dBb":dBb ,"T12":myT12, "dT12":mydT12, "P1n": P1n, "dP1n": dP1n, "P2n": P2n, "dP2n": dP2n})
 	np.save("nubase_stable.npy",nubase_stable)
 	np.save("nubase_bminus.npy",nubase_bminus)
 	np.save("nubase_bplus.npy",nubase_bplus)
