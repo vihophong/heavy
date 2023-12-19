@@ -1,0 +1,1428 @@
+0 25O
+25O {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1 40P
+40P {'value': '150', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 15.8, 'uncertaintySTD': '2.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2 26O
+26O {'value': '4.5', 'unit': 'ps', 'uncertaintySTD': '+3.2-3.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3 39P
+39P {'value': '0.28', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': 26.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+4 23O
+23O {'value': '97', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 7.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+5 38P
+38P {'value': '0.64', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': 12.0, 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+6 24O
+24O {'value': '72', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 42.0, 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+7 37P
+37P {'value': '2.31', 'unit': 's', 'uncertaintySTD': '0.13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+8 44P
+44P {'value': '18.2', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': 75.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+9 43P
+43P {'value': '36.5', 'unit': 'ms', 'uncertaintySTD': '1.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+10 27O
+27O {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+11 42P
+42P {'value': '48.5', 'unit': 'ms', 'uncertaintySTD': '1.5'} {'value': 50.0, 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+12 41P
+41P {'value': '101', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 30.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+14 21O
+21O {'value': '3.42', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+15 36P
+36P {'value': '5.6', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+16 22O
+22O {'value': '2.25', 'unit': 's', 'uncertaintySTD': '0.09'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+20 28O
+28O {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+21 47P
+47P {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+22 46P
+46P {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+23 45P
+45P {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+34 109Zr
+109Zr {'value': '56', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+36 108Zr
+108Zr {'value': '77.4', 'unit': 'ms', 'uncertaintySTD': '2.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+37 107Zr
+107Zr {'value': '146', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+39 106Zr
+106Zr {'value': '180', 'unit': 'ms', 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+50 105Zr
+105Zr {'value': '0.66', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+51 104Zr
+104Zr {'value': '1.2', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+52 103Zr
+103Zr {'value': '1.3', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+54 108Y
+108Y {'value': '30', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+56 107Y
+107Y {'value': '33.5', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+61 100Y
+100Y {'value': '732', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 1.02, 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+62 99Y
+99Y {'value': '1.484', 'unit': 's', 'uncertaintySTD': '0.007'} {'value': 1.77, 'uncertaintySTD': '0.19'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+63 102Y
+102Y {'value': '0.36', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': 4.9, 'uncertaintySTD': '1.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+65 101Y
+101Y {'value': '0.45', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 1.94, 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+66 104Y
+104Y {'value': '197', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 34.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+67 103Y
+103Y {'value': '0.23', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 8.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+68 106Y
+106Y {'value': '79', 'unit': 'ms', 'uncertaintySTD': '+10-5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+69 105Y
+105Y {'value': '107', 'unit': 'ms', 'uncertaintySTD': '+6-9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+70 109Y
+109Y {'value': '25', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+76 7He
+7He {'value': '150', 'unit': 'keV', 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+77 8He
+8He {'value': '119.1', 'unit': 'ms', 'uncertaintySTD': '1.2'} {'value': 16.0, 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+79 9He
+9He {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+81 10He
+10He {'value': '300', 'unit': 'keV', 'uncertaintySTD': '200'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+84 97Y
+97Y {'value': '3.75', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 0.055, 'uncertaintySTD': '0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+89 98Y
+98Y {'value': '0.548', 'unit': 's', 'uncertaintySTD': '0.002'} {'value': 0.33, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+128 170Eu
+170Eu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+129 169Eu
+169Eu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+133 164Eu
+164Eu {'value': '4.15', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+135 166Eu
+166Eu {'value': '1.7', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+136 165Eu
+165Eu {'value': '2.3', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+137 168Eu
+168Eu {'value': '0.20', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+138 167Eu
+167Eu {'value': '0.86', 'unit': 's', 'uncertaintySTD': '+0.08-0.06'} {'value': 1.95, 'uncertaintySTD': '0.38'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+139 74Co
+74Co {'value': '31.3', 'unit': 'ms', 'uncertaintySTD': '1.5'} {'value': 18.0, 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+140 75Co
+75Co {'value': '30', 'unit': 'ms', 'uncertaintySTD': '11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+141 72Co
+72Co {'value': '59.9', 'unit': 'ms', 'uncertaintySTD': '1.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+142 73Co
+73Co {'value': '40.7', 'unit': 'ms', 'uncertaintySTD': '1.3'} {'value': 22.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+143 76Co
+76Co {'value': '21.7', 'unit': 'ms', 'uncertaintySTD': '+6.5-4.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+144 67Co
+67Co {'value': '0.425', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+145 70Co
+70Co {'value': '112', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+147 71Co
+71Co {'value': '80', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 16.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+149 68Co
+68Co {'value': '0.20', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+150 69Co
+69Co {'value': '227', 'unit': 'ms', 'uncertaintySTD': '11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+159 77Co
+77Co {'value': '13.0', 'unit': 'ms', 'uncertaintySTD': '+7.2-4.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+160 78Co
+78Co {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+196 66Co
+66Co {'value': '0.20', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+229 85Ga
+85Ga {'value': '92', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+231 84Ga
+84Ga {'value': '95.2', 'unit': 'ms', 'uncertaintySTD': '2.4'} {'value': 46.0, 'uncertaintySTD': '5'} {'value': 1.6, 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None}
+233 87Ga
+87Ga {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+235 86Ga
+86Ga {'value': '43', 'unit': 'ms', 'uncertaintySTD': '+21-15'} {'value': 60.0, 'uncertaintySTD': '10'} {'value': 20.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None}
+237 81Ga
+81Ga {'value': '1.217', 'unit': 's', 'uncertaintySTD': '0.005'} {'value': 11.9, 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+240 83Ga
+83Ga {'value': '308.1', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': 62.8, 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+242 82Ga
+82Ga {'value': '0.600', 'unit': 's', 'uncertaintySTD': '0.002'} {'value': 22.2, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+244 88Ga
+88Ga {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+263 80Ga
+80Ga {'value': '1.9', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': 0.86, 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+264 79Ga
+79Ga {'value': '2.848', 'unit': 's', 'uncertaintySTD': '0.003'} {'value': 0.089, 'uncertaintySTD': '0.019'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+278 142Cs
+142Cs {'value': '1.684', 'unit': 's', 'uncertaintySTD': '0.014'} {'value': 0.09, 'uncertaintySTD': '0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+282 141Cs
+141Cs {'value': '24.84', 'unit': 's', 'uncertaintySTD': '0.16'} {'value': 0.035, 'uncertaintySTD': '0.003'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+290 144Cs
+144Cs {'value': '0.994', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': 3.03, 'uncertaintySTD': '0.13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+291 143Cs
+143Cs {'value': '1.791', 'unit': 's', 'uncertaintySTD': '0.007'} {'value': 1.64, 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+310 145Cs
+145Cs {'value': '0.587', 'unit': 's', 'uncertaintySTD': '0.005'} {'value': 14.7, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+311 149Cs
+149Cs {'value': '107', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 25.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+312 148Cs
+148Cs {'value': '146', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 25.1, 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+313 147Cs
+147Cs {'value': '0.2295', 'unit': 's', 'uncertaintySTD': '0.001'} {'value': 28.5, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+315 146Cs
+146Cs {'value': '0.3220', 'unit': 's', 'uncertaintySTD': '0.0013'} {'value': 14.2, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+321 152Cs
+152Cs {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+322 151Cs
+151Cs {'value': '69', 'unit': 'ms', 'uncertaintySTD': '26'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+324 150Cs
+150Cs {'value': '84', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 20.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+346 54Ar
+54Ar {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+347 50Ar
+50Ar {'value': '106', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 37.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+348 51Ar
+51Ar {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+349 52Ar
+52Ar {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+350 53Ar
+53Ar {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+351 48Ar
+48Ar {'value': '416', 'unit': 'ms', 'uncertaintySTD': '19'} {'value': 38.0, 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+352 49Ar
+49Ar {'value': '170', 'unit': 'ms', 'uncertaintySTD': '50'} {'value': 65.0, 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+363 17B
+17B {'value': '5.08', 'unit': 'ms', 'uncertaintySTD': '0.05'} {'value': 63.0, 'uncertaintySTD': '1'} {'value': 11.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None}
+364 18B
+18B {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+365 19B
+19B {'value': '2.92', 'unit': 'ms', 'uncertaintySTD': '0.13'} {'value': 71.8, 'uncertaintySTD': '+8.3-9.1'} {'value': 16.0, 'uncertaintySTD': '+5.6-4.8'} {'value': None, 'uncertaintySTD': None}
+366 20B
+20B {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+367 21B
+21B {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+370 15B
+15B {'value': '9.93', 'unit': 'ms', 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+371 16B
+16B {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+382 214Tl
+214Tl {'value': '11.0', 'unit': 's', 'uncertaintySTD': '2.4'} {'value': 34.0, 'uncertaintySTD': '12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+384 215Tl
+215Tl {'value': '9.7', 'unit': 's', 'uncertaintySTD': '3.8'} {'value': 4.6, 'uncertaintySTD': '4.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+386 212Tl
+212Tl {'value': '30.9', 'unit': 's', 'uncertaintySTD': '8'} {'value': 1.8, 'uncertaintySTD': '1.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+387 213Tl
+213Tl {'value': '23.8', 'unit': 's', 'uncertaintySTD': '4.4'} {'value': 7.6, 'uncertaintySTD': '3.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+388 211Tl
+211Tl {'value': '88', 'unit': 's', 'uncertaintySTD': '+46-29'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+389 209Tl
+209Tl {'value': '2.162', 'unit': 'm', 'uncertaintySTD': '0.007'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+390 210Tl
+210Tl {'value': '1.30', 'unit': 'm', 'uncertaintySTD': '0.03'} {'value': 0.007, 'uncertaintySTD': '+0.007-0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+410 218Tl
+218Tl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+412 216Tl
+216Tl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+414 217Tl
+217Tl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+429 176Ho
+176Ho {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+430 175Ho
+175Ho {'value': '1.9', 'unit': 's', 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+431 113Tc
+113Tc {'value': '152', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 2.1, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+432 114Tc
+114Tc {'value': '100', 'unit': 'ms', 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+433 119Tc
+119Tc {'value': '22', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+434 120Tc
+120Tc {'value': '21', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+435 121Tc
+121Tc {'value': '22', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+436 122Tc
+122Tc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+437 115Tc
+115Tc {'value': '78', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+438 116Tc
+116Tc {'value': '57', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+439 117Tc
+117Tc {'value': '44.5', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+440 118Tc
+118Tc {'value': '30', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+441 112Tc
+112Tc {'value': '271', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': 1.5, 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+442 177Ho
+177Ho {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+443 178Ho
+178Ho {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+446 109Tc
+109Tc {'value': '0.91', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 0.08, 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+447 110Tc
+110Tc {'value': '0.900', 'unit': 's', 'uncertaintySTD': '0.013'} {'value': 0.04, 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+448 111Tc
+111Tc {'value': '290', 'unit': 'ms', 'uncertaintySTD': '20'} {'value': 0.85, 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+479 100Kr
+100Kr {'value': '7', 'unit': 'ms', 'uncertaintySTD': '+11-3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+480 99Kr
+99Kr {'value': '13', 'unit': 'ms', 'uncertaintySTD': '+34-6'} {'value': 11.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+481 98Kr
+98Kr {'value': '43', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 7.0, 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+482 97Kr
+97Kr {'value': '63', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 6.7, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+483 96Kr
+96Kr {'value': '80', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 3.7, 'uncertaintySTD': '0.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+488 101Kr
+101Kr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+516 95Kr
+95Kr {'value': '0.114', 'unit': 's', 'uncertaintySTD': '0.003'} {'value': 2.87, 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+518 94Kr
+94Kr {'value': '212', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 1.11, 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+520 93Kr
+93Kr {'value': '1.286', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': 1.95, 'uncertaintySTD': '0.11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+521 92Kr
+92Kr {'value': '1.840', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': 0.0332, 'uncertaintySTD': '0.0025'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+522 91Kr
+91Kr {'value': '8.57', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+572 160Pm
+160Pm {'value': '725', 'unit': 'ms', 'uncertaintySTD': '57'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+573 159Pm
+159Pm {'value': '1.5', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+574 63Cr
+63Cr {'value': '129', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+587 60Cr
+60Cr {'value': '0.49', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+589 61Cr
+61Cr {'value': '234', 'unit': 'ms', 'uncertaintySTD': '11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+590 62Cr
+62Cr {'value': '206', 'unit': 'ms', 'uncertaintySTD': '12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+593 66Cr
+66Cr {'value': '24', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+595 67Cr
+67Cr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+597 68Cr
+68Cr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+600 69Cr
+69Cr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+602 70Cr
+70Cr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+613 9Li
+9Li {'value': '178.3', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 50.8, 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+614 10Li
+10Li {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+615 64Cr
+64Cr {'value': '42.9', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+616 11Li
+11Li {'value': '8.75', 'unit': 'ms', 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+617 65Cr
+65Cr {'value': '27', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+618 12Li
+12Li {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+692 208Au
+208Au {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+693 206Au
+206Au {'value': '40', 'unit': 's', 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+694 207Au
+207Au {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+699 209Au
+209Au {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+701 210Au
+210Au {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+713 134Cd
+134Cd {'value': '65', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+714 135Cd
+135Cd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+715 132Cd
+132Cd {'value': '84', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 60.0, 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+716 133Cd
+133Cd {'value': '57', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+717 130Cd
+130Cd {'value': '162', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': 3.5, 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+718 131Cd
+131Cd {'value': '68', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 3.5, 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+719 128Cd
+128Cd {'value': '0.28', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+720 129Cd
+129Cd {'value': '154', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+738 127Cd
+127Cd {'value': '0.37', 'unit': 's', 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+740 126Cd
+126Cd {'value': '0.514', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+765 198Re
+198Re {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+766 199Re
+199Re {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+767 163Nd
+163Nd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+768 161Nd
+161Nd {'value': '0.22', 'unit': 's', 'uncertaintySTD': '0.08'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+769 162Nd
+162Nd {'value': '0.31', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+773 158Ce
+158Ce {'value': '99', 'unit': 'ms', 'uncertaintySTD': '93'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+775 159Ce
+159Ce {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+777 112Zr
+112Zr {'value': '30', 'unit': 'ms', 'uncertaintySTD': '+30-10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+778 111Zr
+111Zr {'value': '24.0', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+780 110Zr
+110Zr {'value': '37.5', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+785 113Zr
+113Zr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+867 31Mg
+31Mg {'value': '270', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 6.2, 'uncertaintySTD': '1.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+868 30Mg
+30Mg {'value': '335', 'unit': 'ms', 'uncertaintySTD': '17'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+869 32Mg
+32Mg {'value': '86', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 5.5, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+871 34Mg
+34Mg {'value': '20', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+872 33Mg
+33Mg {'value': '90.5', 'unit': 'ms', 'uncertaintySTD': '1.6'} {'value': 14.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+873 36Mg
+36Mg {'value': '7.6', 'unit': 'ms', 'uncertaintySTD': '+0.5-0.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+874 35Mg
+35Mg {'value': '11.3', 'unit': 'ms', 'uncertaintySTD': '0.6'} {'value': 52.0, 'uncertaintySTD': '46'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+876 38Mg
+38Mg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+877 37Mg
+37Mg {'value': '8', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+879 136Te
+136Te {'value': '17.63', 'unit': 's', 'uncertaintySTD': '0.09'} {'value': 1.31, 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+882 139Te
+139Te {'value': '1.6', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+883 140Te
+140Te {'value': '348', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+884 137Te
+137Te {'value': '2.49', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 2.99, 'uncertaintySTD': '0.16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+885 138Te
+138Te {'value': '1.4', 'unit': 's', 'uncertaintySTD': '0.4'} {'value': 6.3, 'uncertaintySTD': '2.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+887 141Te
+141Te {'value': '193', 'unit': 'ms', 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+890 40Mg
+40Mg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+894 39Mg
+39Mg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+902 41Mg
+41Mg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+909 142Te
+142Te {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+910 143Te
+143Te {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+911 144Te
+144Te {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+912 145Te
+145Te {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+988 11Be
+11Be {'value': '13.76', 'unit': 's', 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+989 12Be
+12Be {'value': '21.46', 'unit': 'ms', 'uncertaintySTD': '0.05'} {'value': 0.5, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+990 13Be
+13Be {'value': '2.7×10-21', 'unit': 's', 'uncertaintySTD': '1.8E-21'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+999 188Lu
+188Lu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1001 187Lu
+187Lu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1008 127Rh
+127Rh {'value': '20', 'unit': 'ms', 'uncertaintySTD': '+20-7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1009 126Rh
+126Rh {'value': '19', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1010 128Rh
+128Rh {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1011 125Rh
+125Rh {'value': '26.5', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1039 172Gd
+172Gd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1041 171Gd
+171Gd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1042 170Gd
+170Gd {'value': '0.41', 'unit': 's', 'uncertaintySTD': '+0.14-0.12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1043 169Gd
+169Gd {'value': '0.75', 'unit': 's', 'uncertaintySTD': '0.21'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1046 160Nd
+160Nd {'value': '439', 'unit': 'ms', 'uncertaintySTD': '37'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1065 45Cl
+45Cl {'value': '413', 'unit': 'ms', 'uncertaintySTD': '25'} {'value': 24.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1067 46Cl
+46Cl {'value': '232', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 60.0, 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1072 42Cl
+42Cl {'value': '6.8', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1073 43Cl
+43Cl {'value': '3.13', 'unit': 's', 'uncertaintySTD': '0.09'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1075 44Cl
+44Cl {'value': '0.54', 'unit': 's', 'uncertaintySTD': '0.11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1085 150La
+150La {'value': '0.59', 'unit': 's', 'uncertaintySTD': '0.11'} {'value': 2.7, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1086 151La
+151La {'value': '0.457', 'unit': 's', 'uncertaintySTD': '+0.03-0.018'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1087 152La
+152La {'value': '0.298', 'unit': 's', 'uncertaintySTD': '+0.006-0.023'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1088 153La
+153La {'value': '0.245', 'unit': 's', 'uncertaintySTD': '0.018'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1089 52Cl
+52Cl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1090 147La
+147La {'value': '4.06', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': 0.041, 'uncertaintySTD': '0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1091 148La
+148La {'value': '1.26', 'unit': 's', 'uncertaintySTD': '0.08'} {'value': 0.15, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1092 149La
+149La {'value': '1.091', 'unit': 's', 'uncertaintySTD': '0.034'} {'value': 1.41, 'uncertaintySTD': '0.34'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1093 48Cl
+48Cl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1094 49Cl
+49Cl {'value': '≥', 'unit': '170', 'uncertaintySTD': 'ns'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1095 50Cl
+50Cl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1096 51Cl
+51Cl {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1097 154La
+154La {'value': '0.161', 'unit': 's', 'uncertaintySTD': '0.015'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1098 155La
+155La {'value': '101', 'unit': 'ms', 'uncertaintySTD': '28'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1099 156La
+156La {'value': '84', 'unit': 'ms', 'uncertaintySTD': '78'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1100 47Cl
+47Cl {'value': '101', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1167 60Sc
+60Sc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1168 59Sc
+59Sc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1169 58Sc
+58Sc {'value': '12', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1170 57Sc
+57Sc {'value': '13', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1171 56Sc
+56Sc {'value': '26', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1172 55Sc
+55Sc {'value': '96', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 17.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1173 54Sc
+54Sc {'value': '526', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': 16.0, 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1174 53Sc
+53Sc {'value': '2.6', 'unit': 's', 'uncertaintySTD': '0.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1175 52Sc
+52Sc {'value': '8.2', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1176 51Sc
+51Sc {'value': '12.4', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1193 116Rh
+116Rh {'value': '0.68', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1194 115Rh
+115Rh {'value': '0.99', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1195 118Rh
+118Rh {'value': '286', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': 2.1, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1196 117Rh
+117Rh {'value': '0.44', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1205 124Rh
+124Rh {'value': '30', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1206 123Rh
+123Rh {'value': '42.2', 'unit': 'ms', 'uncertaintySTD': '1.8'} {'value': 24.2, 'uncertaintySTD': '1.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1208 120Rh
+120Rh {'value': '132', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1209 119Rh
+119Rh {'value': '171', 'unit': 'ms', 'uncertaintySTD': '18'} {'value': 6.4, 'uncertaintySTD': '1.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1210 122Rh
+122Rh {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1211 121Rh
+121Rh {'value': '151', 'unit': 'ms', 'uncertaintySTD': '+67-58'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1267 180Er
+180Er {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1268 179Er
+179Er {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1280 90As
+90As {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1281 91As
+91As {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1282 88As
+88As {'value': '0.20', 'unit': 's', 'uncertaintySTD': '+0.2-0.09'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1283 89As
+89As {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1284 86As
+86As {'value': '0.945', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': 35.5, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1285 87As
+87As {'value': '484', 'unit': 'ms', 'uncertaintySTD': '40'} {'value': 15.4, 'uncertaintySTD': '2.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1286 84As
+84As {'value': '4.2', 'unit': 's', 'uncertaintySTD': '0.5'} {'value': 0.18, 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1287 85As
+85As {'value': '2.021', 'unit': 's', 'uncertaintySTD': '0.012'} {'value': 62.9, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1288 92As
+92As {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1289 22N
+22N {'value': '23', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 34.0, 'uncertaintySTD': '3'} {'value': 12.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None}
+1290 21N
+21N {'value': '84', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': 86.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1291 24N
+24N {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1292 23N
+23N {'value': '14.1', 'unit': 'ms', 'uncertaintySTD': '+1.2-1.3'} {'value': 42.0, 'uncertaintySTD': '6'} {'value': 8.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None}
+1293 25N
+25N {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1298 18N
+18N {'value': '619', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 12.0, 'uncertaintySTD': '1.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1300 17N
+17N {'value': '4.173', 'unit': 's', 'uncertaintySTD': '0.004'} {'value': 95.1, 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1302 20N
+20N {'value': '134.4', 'unit': 'ms', 'uncertaintySTD': '3.7'} {'value': 42.9, 'uncertaintySTD': '1.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1304 19N
+19N {'value': '336', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 41.8, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1317 209Hg
+209Hg {'value': '36', 'unit': 's', 'uncertaintySTD': '+7-4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1322 210Hg
+210Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1324 211Hg
+211Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1327 212Hg
+212Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1328 213Hg
+213Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1330 214Hg
+214Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1332 215Hg
+215Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1333 63Sc
+63Sc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1334 62Sc
+62Sc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1335 61Sc
+61Sc {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1336 216Hg
+216Hg {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1340 208Pt
+208Pt {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1347 65Fe
+65Fe {'value': '0.81', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1351 71Fe
+71Fe {'value': '35.7', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1352 70Fe
+70Fe {'value': '65', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1353 73Fe
+73Fe {'value': '12.9', 'unit': 'ms', 'uncertaintySTD': '1.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1354 72Fe
+72Fe {'value': '≥', 'unit': '150', 'uncertaintySTD': 'ns'} {'value': 27.6, 'uncertaintySTD': 'SY'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1355 75Fe
+75Fe {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1356 74Fe
+74Fe {'value': '8.2', 'unit': 'ms', 'uncertaintySTD': '+2.6-7.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1357 67Fe
+67Fe {'value': '0.6', 'unit': 's', 'uncertaintySTD': '+0.2-0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1358 66Fe
+66Fe {'value': '440', 'unit': 'ms', 'uncertaintySTD': '60'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1359 69Fe
+69Fe {'value': '110', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1360 68Fe
+68Fe {'value': '188', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1362 44Si
+44Si {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1363 45Si
+45Si {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1382 13B
+13B {'value': '17.33', 'unit': 'ms', 'uncertaintySTD': '0.17'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1386 14B
+14B {'value': '12.5', 'unit': 'ms', 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1411 37Si
+37Si {'value': '90', 'unit': 'ms', 'uncertaintySTD': '60'} {'value': 17.0, 'uncertaintySTD': '13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1413 38Si
+38Si {'value': '63', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': 25.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1415 35Si
+35Si {'value': '0.78', 'unit': 's', 'uncertaintySTD': '0.12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1417 36Si
+36Si {'value': '0.45', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1419 41Si
+41Si {'value': '20.0', 'unit': 'ms', 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1420 42Si
+42Si {'value': '12.5', 'unit': 'ms', 'uncertaintySTD': '3.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1421 39Si
+39Si {'value': '47.5', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1422 40Si
+40Si {'value': '33.0', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1439 43Si
+43Si {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1473 233Fr
+233Fr {'value': '0.9', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1512 105Sr
+105Sr {'value': '39', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1513 106Sr
+106Sr {'value': '20', 'unit': 'ms', 'uncertaintySTD': '+8-7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1514 107Sr
+107Sr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1515 98Sr
+98Sr {'value': '0.653', 'unit': 's', 'uncertaintySTD': '0.002'} {'value': 0.23, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1516 99Sr
+99Sr {'value': '0.269', 'unit': 's', 'uncertaintySTD': '0.001'} {'value': 0.1, 'uncertaintySTD': '0.019'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1517 100Sr
+100Sr {'value': '200', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 1.11, 'uncertaintySTD': '0.21'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1518 101Sr
+101Sr {'value': '118', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 2.37, 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1520 102Sr
+102Sr {'value': '69', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 5.5, 'uncertaintySTD': '1.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1522 103Sr
+103Sr {'value': '53', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1523 104Sr
+104Sr {'value': '53', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1535 96Sr
+96Sr {'value': '1.07', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1538 97Sr
+97Sr {'value': '429', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1588 76Fe
+76Fe {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1598 206Pt
+206Pt {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1599 207Pt
+207Pt {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1632 143Xe
+143Xe {'value': '0.511', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1634 142Xe
+142Xe {'value': '1.23', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 0.21, 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1636 141Xe
+141Xe {'value': '1.73', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': 0.044, 'uncertaintySTD': '0.005'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1638 112Mo
+112Mo {'value': '120', 'unit': 'ms', 'uncertaintySTD': '+13-11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1639 117Mo
+117Mo {'value': '22', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1640 118Mo
+118Mo {'value': '19', 'unit': 'ms', 'uncertaintySTD': '+7-4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1641 119Mo
+119Mo {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1642 113Mo
+113Mo {'value': '80', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1643 114Mo
+114Mo {'value': '58', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1644 115Mo
+115Mo {'value': '45.5', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1645 116Mo
+116Mo {'value': '32', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1646 110Mo
+110Mo {'value': '0.296', 'unit': 's', 'uncertaintySTD': '0.017'} {'value': 2.0, 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1647 147Xe
+147Xe {'value': '88', 'unit': 'ms', 'uncertaintySTD': '14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1648 111Mo
+111Mo {'value': '186', 'unit': 'ms', 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1649 146Xe
+146Xe {'value': '146', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 6.9, 'uncertaintySTD': '1.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1650 145Xe
+145Xe {'value': '188', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 5.0, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1651 144Xe
+144Xe {'value': '1.15', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1652 150Xe
+150Xe {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1653 149Xe
+149Xe {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1654 148Xe
+148Xe {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1662 109Mo
+109Mo {'value': '0.61', 'unit': 's', 'uncertaintySTD': '+0.03-0.04'} {'value': 1.3, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1701 15Be
+15Be {'value': '0.58', 'unit': 'MeV', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1702 16Be
+16Be {'value': '0.8', 'unit': 'MeV', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1710 14Be
+14Be {'value': '4.35', 'unit': 'ms', 'uncertaintySTD': '0.17'} {'value': 81.0, 'uncertaintySTD': '4'} {'value': 5.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None}
+1733 83Zn
+83Zn {'value': '117', 'unit': 'ms', 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1734 82Zn
+82Zn {'value': '166', 'unit': 'ms', 'uncertaintySTD': '11'} {'value': 69.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1735 85Zn
+85Zn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1736 84Zn
+84Zn {'value': '53.6', 'unit': 'ms', 'uncertaintySTD': '8.1'} {'value': 73.0, 'uncertaintySTD': '26'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1737 81Zn
+81Zn {'value': '0.32', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 7.5, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1738 80Zn
+80Zn {'value': '561.9', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 1.0, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1744 86Zn
+86Zn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1755 78Cu
+78Cu {'value': '335', 'unit': 'ms', 'uncertaintySTD': '11'} {'value': 65.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1756 79Zn
+79Zn {'value': '0.746', 'unit': 's', 'uncertaintySTD': '0.042'} {'value': 1.7, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1757 77Cu
+77Cu {'value': '469.8', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 30.1, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1758 76Cu
+76Cu {'value': '0.641', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': 3.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1762 78Zn
+78Zn {'value': '1.47', 'unit': 's', 'uncertaintySTD': '0.15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1767 75Cu
+75Cu {'value': '1.224', 'unit': 's', 'uncertaintySTD': '0.003'} {'value': 3.5, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1768 74Cu
+74Cu {'value': '1.63', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1769 73Cu
+73Cu {'value': '4.2', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1793 82Cu
+82Cu {'value': '33', 'unit': 'ms', 'uncertaintySTD': '+7-6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1794 81Cu
+81Cu {'value': '73.2', 'unit': 'ms', 'uncertaintySTD': '6.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1795 80Cu
+80Cu {'value': '113.6', 'unit': 'ms', 'uncertaintySTD': '+8.2-3.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1796 79Cu
+79Cu {'value': '241.0', 'unit': 'ms', 'uncertaintySTD': '3.2'} {'value': 66.0, 'uncertaintySTD': '12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1797 84Cu
+84Cu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1798 83Cu
+83Cu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1800 159Pr
+159Pr {'value': '0.13', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1803 160Pr
+160Pr {'value': '0.17', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1805 161Pr
+161Pr {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1855 155Pr
+155Pr {'value': '1.47', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1857 154Pr
+154Pr {'value': '2.3', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1859 157Pr
+157Pr {'value': '0.295', 'unit': 's', 'uncertaintySTD': '+0.029-0.011'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1861 156Pr
+156Pr {'value': '0.444', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1867 153Pr
+153Pr {'value': '4.29', 'unit': 's', 'uncertaintySTD': '0.11'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1870 158Pr
+158Pr {'value': '0.181', 'unit': 's', 'uncertaintySTD': '0.014'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1873 132Ag
+132Ag {'value': '28', 'unit': 'ms', 'uncertaintySTD': '+15-12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1876 133Ag
+133Ag {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1877 130Ag
+130Ag {'value': '42', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1879 131Ag
+131Ag {'value': '35', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1881 128Ag
+128Ag {'value': '58', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1883 129Ag
+129Ag {'value': '46', 'unit': 'ms', 'uncertaintySTD': '+5-9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1886 127Ag
+127Ag {'value': '109', 'unit': 'ms', 'uncertaintySTD': '25'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1907 121Ag
+121Ag {'value': '0.78', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 0.08, 'uncertaintySTD': '0.013'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1908 122Ag
+122Ag {'value': '0.529', 'unit': 's', 'uncertaintySTD': '0.013'} {'value': 0.186, 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1912 120Ag
+120Ag {'value': '1.23', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1916 125Ag
+125Ag {'value': '159', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1917 126Ag
+126Ag {'value': '52', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1918 159Nd
+159Nd {'value': '0.485', 'unit': 's', 'uncertaintySTD': '+0.039-0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1919 123Ag
+123Ag {'value': '0.299', 'unit': 's', 'uncertaintySTD': '0.007'} {'value': 0.62, 'uncertaintySTD': '0.09'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1920 158Nd
+158Nd {'value': '0.820', 'unit': 's', 'uncertaintySTD': '+0.015-0.036'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1921 124Ag
+124Ag {'value': '191', 'unit': 'ms', 'uncertaintySTD': '28'} {'value': 1.3, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1962 98Br
+98Br {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1963 97Br
+97Br {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1964 96Br
+96Br {'value': '≥', 'unit': '150', 'uncertaintySTD': 'ns'} {'value': 27.6, 'uncertaintySTD': 'SY'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1965 95Br
+95Br {'value': '≥', 'unit': '150', 'uncertaintySTD': 'ns'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1971 87Br
+87Br {'value': '55.68', 'unit': 's', 'uncertaintySTD': '0.12'} {'value': 2.6, 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1974 94Br
+94Br {'value': '70', 'unit': 'ms', 'uncertaintySTD': '20'} {'value': 68.0, 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1975 93Br
+93Br {'value': '102', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': 68.0, 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1976 92Br
+92Br {'value': '0.314', 'unit': 's', 'uncertaintySTD': '0.016'} {'value': 33.1, 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1977 91Br
+91Br {'value': '0.543', 'unit': 's', 'uncertaintySTD': '0.004'} {'value': 19.5, 'uncertaintySTD': '2.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1978 90Br
+90Br {'value': '1.91', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': 25.3, 'uncertaintySTD': '1.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1979 89Br
+89Br {'value': '4.357', 'unit': 's', 'uncertaintySTD': '0.022'} {'value': 13.7, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1980 88Br
+88Br {'value': '16.34', 'unit': 's', 'uncertaintySTD': '0.08'} {'value': 6.58, 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1991 165Pm
+165Pm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1992 161Pm
+161Pm {'value': '1.05', 'unit': 's', 'uncertaintySTD': '0.15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1993 162Pm
+162Pm {'value': '0.63', 'unit': 's', 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1994 163Pm
+163Pm {'value': '0.43', 'unit': 's', 'uncertaintySTD': '0.35'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+1995 164Pm
+164Pm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2030 223Bi
+223Bi {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2031 224Bi
+224Bi {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2036 222Bi
+222Bi {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2037 220Bi
+220Bi {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2038 221Bi
+221Bi {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2071 174Tb
+174Tb {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2072 173Tb
+173Tb {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2073 170Tb
+170Tb {'value': '0.96', 'unit': 's', 'uncertaintySTD': '0.08'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2074 169Tb
+169Tb {'value': '5.1', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2075 172Tb
+172Tb {'value': '0.76', 'unit': 's', 'uncertaintySTD': '0.19'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2076 171Tb
+171Tb {'value': '1.24', 'unit': 's', 'uncertaintySTD': '+0.09-0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2093 134Sb
+134Sb {'value': '0.78', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2097 136Sb
+136Sb {'value': '0.923', 'unit': 's', 'uncertaintySTD': '0.014'} {'value': 18.5, 'uncertaintySTD': '1.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2099 135Sb
+135Sb {'value': '1.679', 'unit': 's', 'uncertaintySTD': '0.015'} {'value': 22.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2101 138Sb
+138Sb {'value': '348', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': 72.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2102 137Sb
+137Sb {'value': '450', 'unit': 'ms', 'uncertaintySTD': '50'} {'value': 49.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2104 64V
+64V {'value': '15', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2105 140Sb
+140Sb {'value': '173', 'unit': 'ms', 'uncertaintySTD': '12'} {'value': 23.0, 'uncertaintySTD': '4'} {'value': 7.6, 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None}
+2106 65V
+65V {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2107 139Sb
+139Sb {'value': '93', 'unit': 'ms', 'uncertaintySTD': '13'} {'value': 90.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2108 66V
+66V {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2109 67V
+67V {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2111 63V
+63V {'value': '17', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2114 141Sb
+141Sb {'value': '103', 'unit': 'ms', 'uncertaintySTD': '29'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2115 142Sb
+142Sb {'value': '53', 'unit': 'ms', 'uncertaintySTD': '+69-31'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2144 61V
+61V {'value': '48.3', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2145 62V
+62V {'value': '33.6', 'unit': 'ms', 'uncertaintySTD': '2.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2149 56V
+56V {'value': '216', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2150 57V
+57V {'value': '0.32', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2151 58V
+58V {'value': '191', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2152 59V
+59V {'value': '97', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2154 60V
+60V {'value': '122', 'unit': 'ms', 'uncertaintySTD': '18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2166 32Na
+32Na {'value': '13.2', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 24.0, 'uncertaintySTD': '7'} {'value': 8.3, 'uncertaintySTD': '2.1'} {'value': None, 'uncertaintySTD': None}
+2168 31Na
+31Na {'value': '17.0', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 39.0, 'uncertaintySTD': '5'} {'value': 0.7, 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None}
+2170 34Na
+34Na {'value': '5.5', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2172 33Na
+33Na {'value': '8.0', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 47.0, 'uncertaintySTD': '6'} {'value': 13.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None}
+2174 36Na
+36Na {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2176 35Na
+35Na {'value': '1.8', 'unit': 'ms', 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2184 38Na
+38Na {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2185 37Na
+37Na {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2186 39Na
+39Na {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2222 27Na
+27Na {'value': '301', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 0.13, 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2224 29Na
+29Na {'value': '44.1', 'unit': 'ms', 'uncertaintySTD': '0.9'} {'value': 21.5, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2225 28Na
+28Na {'value': '30.5', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 0.58, 'uncertaintySTD': '0.12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2227 30Na
+30Na {'value': '48', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 30.0, 'uncertaintySTD': '4'} {'value': 1.15, 'uncertaintySTD': '0.25'} {'value': None, 'uncertaintySTD': None}
+2265 27F
+27F {'value': '5.0', 'unit': 'ms', 'uncertaintySTD': '0.2'} {'value': 77.0, 'uncertaintySTD': '21'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2266 28F
+28F {'value': '≈', 'unit': '0.046', 'uncertaintySTD': 'as'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2267 25F
+25F {'value': '80', 'unit': 'ms', 'uncertaintySTD': '9'} {'value': 23.1, 'uncertaintySTD': '4.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2268 26F
+26F {'value': '8.2', 'unit': 'ms', 'uncertaintySTD': '0.9'} {'value': 13.5, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2271 23F
+23F {'value': '2.23', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2272 24F
+24F {'value': '382', 'unit': 'ms', 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2274 22F
+22F {'value': '4.23', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2279 30F
+30F {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2280 31F
+31F {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2281 29F
+29F {'value': '2.5', 'unit': 'ms', 'uncertaintySTD': '0.3'} {'value': 100.0, 'uncertaintySTD': '80'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2296 181Tm
+181Tm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2298 180Tm
+180Tm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2302 182Tm
+182Tm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2310 148Ba
+148Ba {'value': '0.612', 'unit': 's', 'uncertaintySTD': '0.017'} {'value': 0.4, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2311 149Ba
+149Ba {'value': '352', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 2.2, 'uncertaintySTD': '1.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2312 150Ba
+150Ba {'value': '0.259', 'unit': 's', 'uncertaintySTD': '0.005'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2313 151Ba
+151Ba {'value': '0.167', 'unit': 's', 'uncertaintySTD': '0.005'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2317 147Ba
+147Ba {'value': '0.894', 'unit': 's', 'uncertaintySTD': '0.007'} {'value': 0.06, 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2319 152Ba
+152Ba {'value': '0.139', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2320 153Ba
+153Ba {'value': '0.116', 'unit': 's', 'uncertaintySTD': '0.052'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2321 154Ba
+154Ba {'value': '53', 'unit': 'ms', 'uncertaintySTD': '48'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2323 79Ni
+79Ni {'value': '43.0', 'unit': 'ms', 'uncertaintySTD': '+8.6-7.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2325 80Ni
+80Ni {'value': '24', 'unit': 'ms', 'uncertaintySTD': '+26-17'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2328 78Ni
+78Ni {'value': '0.11', 'unit': 's', 'uncertaintySTD': '+0.1-0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2330 81Ni
+81Ni {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2332 82Ni
+82Ni {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2387 76Ni
+76Ni {'value': '0.238', 'unit': 's', 'uncertaintySTD': '+0.015-0.018'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2388 77Ni
+77Ni {'value': '158.9', 'unit': 'ms', 'uncertaintySTD': '4.2'} {'value': 26.0, 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2389 74Ni
+74Ni {'value': '507.7', 'unit': 'ms', 'uncertaintySTD': '4.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2390 75Ni
+75Ni {'value': '344', 'unit': 'ms', 'uncertaintySTD': '25'} {'value': 10.0, 'uncertaintySTD': '2.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2397 72Ni
+72Ni {'value': '1.57', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2398 73Ni
+73Ni {'value': '0.84', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2402 49S
+49S {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2403 48S
+48S {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2404 47S
+47S {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2405 46S
+46S {'value': '50', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2411 204Ir
+204Ir {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2413 205Ir
+205Ir {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2417 203Ir
+203Ir {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2464 42S
+42S {'value': '1.016', 'unit': 's', 'uncertaintySTD': '0.015'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2465 41S
+41S {'value': '1.99', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2469 45S
+45S {'value': '68', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2470 44S
+44S {'value': '117', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 29.0, 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2471 43S
+43S {'value': '265', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': 40.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2519 59Ca
+59Ca {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2520 58Ca
+58Ca {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2521 57Ca
+57Ca {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2522 56Ca
+56Ca {'value': '11', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2523 55Ca
+55Ca {'value': '22', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2524 59K
+59K {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2529 54Ca
+54Ca {'value': '107', 'unit': 'ms', 'uncertaintySTD': '14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2530 53Ca
+53Ca {'value': '461', 'unit': 'ms', 'uncertaintySTD': '90'} {'value': 40.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2531 52Ca
+52Ca {'value': '4.6', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2532 51Ca
+51Ca {'value': '10.0', 'unit': 's', 'uncertaintySTD': '0.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2536 61Ca
+61Ca {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2537 60Ca
+60Ca {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2545 48K
+48K {'value': '6.8', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': 1.14, 'uncertaintySTD': '0.15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2565 57K
+57K {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2566 56K
+56K {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2570 58K
+58K {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2571 53K
+53K {'value': '30', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2573 52K
+52K {'value': '110', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 74.0, 'uncertaintySTD': '9'} {'value': 2.3, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None}
+2575 55K
+55K {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2577 54K
+54K {'value': '10', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2578 49K
+49K {'value': '1.26', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 86.0, 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2581 51K
+51K {'value': '365', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 65.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2583 50K
+50K {'value': '472', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 29.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2617 20C
+20C {'value': '16.3', 'unit': 'ms', 'uncertaintySTD': '+4-3.5'} {'value': 65.0, 'uncertaintySTD': '18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2618 19C
+19C {'value': '46.3', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 47.0, 'uncertaintySTD': '3'} {'value': 7.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None}
+2619 22C
+22C {'value': '6.1', 'unit': 'ms', 'uncertaintySTD': '+1.4-1.2'} {'value': 61.0, 'uncertaintySTD': '+14-13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2620 21C
+21C {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2621 23C
+23C {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2622 16C
+16C {'value': '0.747', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': 99.0, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2623 18C
+18C {'value': '92', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 31.5, 'uncertaintySTD': '1.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2624 17C
+17C {'value': '193', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 26.0, 'uncertaintySTD': '1.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2625 125Ru
+125Ru {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2626 124Ru
+124Ru {'value': '15', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2627 114Ru
+114Ru {'value': '0.54', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2628 116Ru
+116Ru {'value': '204', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2629 115Ru
+115Ru {'value': '318', 'unit': 'ms', 'uncertaintySTD': '19'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2630 122Ru
+122Ru {'value': '25', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2631 121Ru
+121Ru {'value': '29', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2632 123Ru
+123Ru {'value': '19', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2633 118Ru
+118Ru {'value': '99', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2634 117Ru
+117Ru {'value': '151', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2635 120Ru
+120Ru {'value': '45', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2636 119Ru
+119Ru {'value': '69.5', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2681 194Ta
+194Ta {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2684 193Ta
+193Ta {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2685 88Ge
+88Ge {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2686 89Ge
+89Ge {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2687 86Ge
+86Ge {'value': '226', 'unit': 'ms', 'uncertaintySTD': '21'} {'value': 45.0, 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2688 87Ge
+87Ge {'value': '≈', 'unit': '0.14', 'uncertaintySTD': 's'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2689 84Ge
+84Ge {'value': '0.954', 'unit': 's', 'uncertaintySTD': '0.014'} {'value': 10.2, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2690 85Ge
+85Ge {'value': '503', 'unit': 'ms', 'uncertaintySTD': '18'} {'value': 16.5, 'uncertaintySTD': '2.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2692 83Ge
+83Ge {'value': '1.85', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2693 192Ta
+192Ta {'value': '2.2', 'unit': 's', 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2695 90Ge
+90Ge {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2704 92Rb
+92Rb {'value': '4.48', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 0.0107, 'uncertaintySTD': '5.0E-4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2705 93Rb
+93Rb {'value': '5.84', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 1.39, 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2706 94Rb
+94Rb {'value': '2.702', 'unit': 's', 'uncertaintySTD': '0.005'} {'value': 10.5, 'uncertaintySTD': '0.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2707 95Rb
+95Rb {'value': '377.7', 'unit': 'ms', 'uncertaintySTD': '0.8'} {'value': 8.7, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2708 96Rb
+96Rb {'value': '203', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 13.3, 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2713 91Rb
+91Rb {'value': '58.2', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2735 69Mn
+69Mn {'value': '16', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2737 68Mn
+68Mn {'value': '28', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2739 71Mn
+71Mn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2741 70Mn
+70Mn {'value': '19.9', 'unit': 'ms', 'uncertaintySTD': '1.7'} {'value': 50.0, 'uncertaintySTD': '20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2744 73Mn
+73Mn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2746 72Mn
+72Mn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2747 65Mn
+65Mn {'value': '92', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2748 67Mn
+67Mn {'value': '47', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2749 66Mn
+66Mn {'value': '65', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2787 134Sn
+134Sn {'value': '1.050', 'unit': 's', 'uncertaintySTD': '0.011'} {'value': 17.0, 'uncertaintySTD': '13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2788 133Sn
+133Sn {'value': '1.46', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 0.0294, 'uncertaintySTD': '0.0024'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2789 136Sn
+136Sn {'value': '345', 'unit': 'ms', 'uncertaintySTD': '15'} {'value': 27.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2790 135Sn
+135Sn {'value': '515', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 21.0, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2792 138Sn
+138Sn {'value': '140', 'unit': 'ms', 'uncertaintySTD': '+30-20'} {'value': 36.0, 'uncertaintySTD': '12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2794 137Sn
+137Sn {'value': '190', 'unit': 'ms', 'uncertaintySTD': '60'} {'value': 58.0, 'uncertaintySTD': '15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2797 139Sn
+139Sn {'value': '130', 'unit': 'ms', 'uncertaintySTD': '60'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2798 62Mn
+62Mn {'value': '92', 'unit': 'ms', 'uncertaintySTD': '13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2799 61Mn
+61Mn {'value': '0.709', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2800 64Mn
+64Mn {'value': '90', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 2.7, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2801 63Mn
+63Mn {'value': '0.275', 'unit': 's', 'uncertaintySTD': '0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2804 35Al
+35Al {'value': '38.3', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 38.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2806 36Al
+36Al {'value': '90', 'unit': 'ms', 'uncertaintySTD': '40'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2808 33Al
+33Al {'value': '41.7', 'unit': 'ms', 'uncertaintySTD': '0.2'} {'value': 8.5, 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2810 34Al
+34Al {'value': '56.3', 'unit': 'ms', 'uncertaintySTD': '0.5'} {'value': 26.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2811 39Al
+39Al {'value': '7.6', 'unit': 'ms', 'uncertaintySTD': '1.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2812 40Al
+40Al {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2813 37Al
+37Al {'value': '10.7', 'unit': 'ms', 'uncertaintySTD': '1.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2814 38Al
+38Al {'value': '9.0', 'unit': 'ms', 'uncertaintySTD': '0.7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2815 140Sn
+140Sn {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2817 41Al
+41Al {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2819 42Al
+42Al {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2829 43Al
+43Al {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2838 137In
+137In {'value': '65', 'unit': 'ms', 'uncertaintySTD': '+40-30'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2839 136In
+136In {'value': '85', 'unit': 'ms', 'uncertaintySTD': '+10-8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2840 135In
+135In {'value': '101', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2841 134In
+134In {'value': '140', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2842 133In
+133In {'value': '165', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 85.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2843 132In
+132In {'value': '0.200', 'unit': 's', 'uncertaintySTD': '0.002'} {'value': 7.4, 'uncertaintySTD': '1.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2844 131In
+131In {'value': '0.28', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 2.0, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2845 130In
+130In {'value': '0.29', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': 0.93, 'uncertaintySTD': '0.13'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2846 129In
+129In {'value': '611', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 0.23, 'uncertaintySTD': '0.07'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2847 126In
+126In {'value': '1.53', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2855 128In
+128In {'value': '0.84', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2856 127In
+127In {'value': '1.09', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2878 103Rb
+103Rb {'value': '23', 'unit': 'ms', 'uncertaintySTD': '+13-9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2879 104Rb
+104Rb {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2880 97Rb
+97Rb {'value': '169.1', 'unit': 'ms', 'uncertaintySTD': '0.6'} {'value': 25.5, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2881 98Rb
+98Rb {'value': '115', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 14.3, 'uncertaintySTD': '0.9'} {'value': 0.054, 'uncertaintySTD': '0.008'} {'value': None, 'uncertaintySTD': None}
+2882 99Rb
+99Rb {'value': '54', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 19.8, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2883 100Rb
+100Rb {'value': '52', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 5.6, 'uncertaintySTD': '1.2'} {'value': 0.15, 'uncertaintySTD': '0.05'} {'value': None, 'uncertaintySTD': None}
+2884 101Rb
+101Rb {'value': '32', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 28.0, 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2885 102Rb
+102Rb {'value': '37', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': 18.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2886 164Sm
+164Sm {'value': '1.43', 'unit': 's', 'uncertaintySTD': '0.24'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2887 163Sm
+163Sm {'value': '1.23', 'unit': 's', 'uncertaintySTD': '+0.51-0.47'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2891 168Sm
+168Sm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2893 167Sm
+167Sm {'value': '334', 'unit': 'ms', 'uncertaintySTD': '+83-78'} {'value': 16.0, 'uncertaintySTD': 'LE'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2894 166Sm
+166Sm {'value': '0.80', 'unit': 's', 'uncertaintySTD': '0.63'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2895 165Sm
+165Sm {'value': '0.98', 'unit': 's', 'uncertaintySTD': '0.21'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2918 176Dy
+176Dy {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2939 13Li
+13Li {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2959 175Dy
+175Dy {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2960 174Dy
+174Dy {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2977 114Nb
+114Nb {'value': '17', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2978 113Nb
+113Nb {'value': '32', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2979 112Nb
+112Nb {'value': '33', 'unit': 'ms', 'uncertaintySTD': '+9-6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2980 111Nb
+111Nb {'value': '54', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2981 116Nb
+116Nb {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2982 115Nb
+115Nb {'value': '23', 'unit': 'ms', 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2983 110Nb
+110Nb {'value': '82', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 40.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2984 109Nb
+109Nb {'value': '108', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2985 108Nb
+108Nb {'value': '198', 'unit': 'ms', 'uncertaintySTD': '6'} {'value': 6.3, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2986 103Nb
+103Nb {'value': '1.5', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2989 107Nb
+107Nb {'value': '300', 'unit': 'ms', 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2990 106Nb
+106Nb {'value': '1.02', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 4.5, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2991 105Nb
+105Nb {'value': '2.91', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 1.7, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+2992 104Nb
+104Nb {'value': '4.9', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': 0.06, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3070 32Al
+32Al {'value': '33.0', 'unit': 'ms', 'uncertaintySTD': '0.2'} {'value': 0.7, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3072 31Al
+31Al {'value': '644', 'unit': 'ms', 'uncertaintySTD': '25'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3108 137I
+137I {'value': '24.5', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': 7.14, 'uncertaintySTD': '0.23'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3109 138I
+138I {'value': '6.26', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': 5.44, 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3112 141I
+141I {'value': '0.418', 'unit': 's', 'uncertaintySTD': '0.008'} {'value': 21.2, 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3113 142I
+142I {'value': '222', 'unit': 'ms', 'uncertaintySTD': '12'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3114 139I
+139I {'value': '2.280', 'unit': 's', 'uncertaintySTD': '0.011'} {'value': 10.0, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3115 140I
+140I {'value': '0.86', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': 7.6, 'uncertaintySTD': '0.28'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3116 144I
+144I {'value': '≥', 'unit': '300', 'uncertaintySTD': 'ns'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3117 145I
+145I {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3118 143I
+143I {'value': '130', 'unit': 'ms', 'uncertaintySTD': '45'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3119 146I
+146I {'value': '94', 'unit': 'ms', 'uncertaintySTD': '26'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3120 147I
+147I {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3188 129Pd
+129Pd {'value': '31', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3189 128Pd
+128Pd {'value': '35', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3190 131Pd
+131Pd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3191 130Pd
+130Pd {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3192 127Pd
+127Pd {'value': '38', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3193 126Pd
+126Pd {'value': '48.5', 'unit': 'ms', 'uncertaintySTD': '0.7'} {'value': 4.9, 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3196 120Pd
+120Pd {'value': '492', 'unit': 'ms', 'uncertaintySTD': '33'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3197 119Pd
+119Pd {'value': '0.92', 'unit': 's', 'uncertaintySTD': '0.01'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3199 125Pd
+125Pd {'value': '57', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3200 122Pd
+122Pd {'value': '175', 'unit': 'ms', 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3201 121Pd
+121Pd {'value': '285', 'unit': 'ms', 'uncertaintySTD': '24'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3202 124Pd
+124Pd {'value': '38', 'unit': 'ms', 'uncertaintySTD': '+38-19'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3203 123Pd
+123Pd {'value': '109', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 1.4, 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3227 203Os
+203Os {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3241 47Ar
+47Ar {'value': '1.23', 'unit': 's', 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3283 4H
+4H {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3284 5H
+5H {'value': '5.3', 'unit': 'MeV', 'uncertaintySTD': '0.4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3285 6H
+6H {'value': '1.55', 'unit': 'MeV', 'uncertaintySTD': '0.44'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3286 7H
+7H {'value': '0.09', 'unit': 'MeV', 'uncertaintySTD': '+0.94-0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3339 226At
+226At {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3346 153Ce
+153Ce {'value': '0.865', 'unit': 's', 'uncertaintySTD': '0.025'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3347 154Ce
+154Ce {'value': '0.722', 'unit': 's', 'uncertaintySTD': '0.014'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3348 155Ce
+155Ce {'value': '313', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3357 156Ce
+156Ce {'value': '0.233', 'unit': 's', 'uncertaintySTD': '0.009'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3358 229At
+229At {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3359 157Ce
+157Ce {'value': '0.18', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3360 227At
+227At {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3361 228At
+228At {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3380 26Ne
+26Ne {'value': '197', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 0.13, 'uncertaintySTD': '0.03'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3381 27Ne
+27Ne {'value': '31.5', 'unit': 'ms', 'uncertaintySTD': '1.3'} {'value': 2.0, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3382 28Ne
+28Ne {'value': '20', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': 12.0, 'uncertaintySTD': '1'} {'value': 3.7, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None}
+3383 29Ne
+29Ne {'value': '15', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': 28.0, 'uncertaintySTD': '5'} {'value': 4.0, 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None}
+3384 30Ne
+30Ne {'value': '7.3', 'unit': 'ms', 'uncertaintySTD': '0.3'} {'value': 13.0, 'uncertaintySTD': '4'} {'value': 8.9, 'uncertaintySTD': '2.3'} {'value': None, 'uncertaintySTD': None}
+3385 31Ne
+31Ne {'value': '3.4', 'unit': 'ms', 'uncertaintySTD': '0.8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3386 32Ne
+32Ne {'value': '3.5', 'unit': 'ms', 'uncertaintySTD': '0.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3387 33Ne
+33Ne {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3388 34Ne
+34Ne {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3393 157La
+157La {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3394 95Se
+95Se {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3396 94Se
+94Se {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3425 92Se
+92Se {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3426 93Se
+93Se {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3427 90Se
+90Se {'value': '195', 'unit': 'ms', 'uncertaintySTD': '+95-65'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3428 91Se
+91Se {'value': '0.27', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 21.0, 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3429 88Se
+88Se {'value': '1.53', 'unit': 's', 'uncertaintySTD': '0.06'} {'value': 0.99, 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3430 89Se
+89Se {'value': '0.43', 'unit': 's', 'uncertaintySTD': '0.05'} {'value': 7.8, 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3431 86Se
+86Se {'value': '14.3', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3432 87Se
+87Se {'value': '5.50', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': 0.36, 'uncertaintySTD': '0.08'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3483 61Ti
+61Ti {'value': '15', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3485 60Ti
+60Ti {'value': '22', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3486 59Ti
+59Ti {'value': '28.5', 'unit': 'ms', 'uncertaintySTD': '2.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3496 58Ti
+58Ti {'value': '58', 'unit': 'ms', 'uncertaintySTD': '9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3498 57Ti
+57Ti {'value': '98', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3500 56Ti
+56Ti {'value': '200', 'unit': 'ms', 'uncertaintySTD': '5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3510 65Ti
+65Ti {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3512 64Ti
+64Ti {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3513 63Ti
+63Ti {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+3514 62Ti
+62Ti {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
