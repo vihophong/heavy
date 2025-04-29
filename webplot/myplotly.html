@@ -1,0 +1,120 @@
+<head>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+
+    <div id="myDiv" style="width: 800px; height: 600px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+    <script>
+    Plotly.d3.json("./data.json",function(jsondata){
+        console.log(jsondata);
+        var xValues = jsondata.xValues;
+
+        var yValues = jsondata.yValues;
+
+        var zValues = jsondata.zValues
+
+        // var textValues = [
+        //     ["a<br>bbb","b","c","c","d"],
+        //     ["a","b","c","c","d"],
+        //     ["a","b","c","c","d"],
+        //     ["a","b","c","c","d"]
+        // ];
+        
+
+        // var colorscaleValue = [
+        //     [0, '#3D9970'],
+        //     [1, '#001f3f']
+        // ];
+        // var colorscaleValue2 = [
+        //     [0, '#D7A8A8'],
+        //     [1, '#D7A8A8']
+        // ];
+
+        var data = [
+        {
+            name: "",
+            y: jsondata.xValues,
+            x: jsondata.yValues,
+            z: jsondata.zValues,
+            xgap:.1,
+            ygap:.1,
+            type: 'heatmap',
+            // colorscale: colorscaleValue2,
+            showscale: true
+        }
+        ];
+
+        var layout = {
+            title: 'Annotated Heatmap',
+            dragmode: 'pan',
+            annotations: [],
+            xaxis: {
+                ticks: '',
+                side: '',
+                // fixedrange: true
+            },
+            yaxis: {
+                ticks: '',
+                ticksuffix: ' ',
+                width: 700,
+                height: 700,
+                autosize: false
+            }
+        };
+
+        // for (var i = 0; i < yValues.length; i++) {
+        //     for (var j = 0; j < xValues.length; j++) {
+        //         var currentValue = zValues[i][j];
+        //         if (currentValue != 0.0) {
+        //             var textColor = 'white';
+        //         } else {
+        //             var textColor = 'black';
+        //         }
+        //         var result = {
+        //             xref: 'x1',
+        //             yref: 'y1',
+        //             x: xValues[j],
+        //             y: yValues[i],
+        //             text: (zValues[i][j]).toFixed(2)+"<br>a",
+        //             font: {
+        //                 family: 'Arial',
+        //                 size: 12,
+        //                 color: 'rgb(50, 171, 96)'
+        //             },
+        //             showarrow: false,
+        //             font: {
+        //                 color: textColor
+        //             }
+        //         };
+        //         layout.annotations.push(result);
+        //     }
+        // }
+
+        
+
+        var graphDiv = document.getElementById('myDiv');
+        Plotly.newPlot(graphDiv, data, layout,{ scrollZoom: true, displaylogo: false});
+        var init_range = [layout.xaxis.range[0],layout.xaxis.range[1]]
+        graphDiv.on('plotly_relayout', function (eventdata) {
+            // console.log(init_range,eventdata['xaxis.range[0]'])
+            // console.log(eventdata['xaxis.range[0]'])
+            // console.log(eventdata['xaxis.range[1]'])
+            // console.log(eventdata['yaxis.range[0]'])
+            // console.log(eventdata['yaxis.range[1]'])
+            layout.annotations[0].text="aaaa"
+            // var update = {
+            //     title: 'some new title', // updates the title
+            //     xaxis:{
+            //         range: [0,5]
+            //     }
+            // };
+            Plotly.restyle(graphDiv, {annotations : layout.annotations})
+            // Plotly.restyle(graphDiv,update)
+            // Plotly.react(graphDiv,update)
+        });
+    });
+
+    </script>
+</body>

@@ -95,7 +95,7 @@
 135 166Eu
 166Eu {'value': '1.7', 'unit': 's', 'uncertaintySTD': '0.3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 136 165Eu
-165Eu {'value': '2.3', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+165Eu {'value': '2.24', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 137 168Eu
 168Eu {'value': '0.20', 'unit': 's', 'uncertaintySTD': '0.1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 138 167Eu
@@ -109,7 +109,7 @@
 142 73Co
 73Co {'value': '40.7', 'unit': 'ms', 'uncertaintySTD': '1.3'} {'value': 22.0, 'uncertaintySTD': '8'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 143 76Co
-76Co {'value': '21.7', 'unit': 'ms', 'uncertaintySTD': '+6.5-4.9'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+76Co {'value': '16', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 144 67Co
 67Co {'value': '0.425', 'unit': 's', 'uncertaintySTD': '0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 145 70Co
@@ -279,7 +279,7 @@
 572 160Pm
 160Pm {'value': '725', 'unit': 'ms', 'uncertaintySTD': '57'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 573 159Pm
-159Pm {'value': '1.5', 'unit': 's', 'uncertaintySTD': '0.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+159Pm {'value': '1.634', 'unit': 's', 'uncertaintySTD': '0.042'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 574 63Cr
 63Cr {'value': '129', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 587 60Cr
@@ -729,7 +729,7 @@
 1757 77Cu
 77Cu {'value': '469.8', 'unit': 'ms', 'uncertaintySTD': '2'} {'value': 30.1, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1758 76Cu
-76Cu {'value': '0.641', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': 3.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+76Cu {'value': '637', 'unit': 'ms', 'uncertaintySTD': '7'} {'value': 7.2, 'uncertaintySTD': '0.5'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1762 78Zn
 78Zn {'value': '1.47', 'unit': 's', 'uncertaintySTD': '0.15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1767 75Cu
@@ -751,7 +751,7 @@
 1798 83Cu
 83Cu {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1800 159Pr
-159Pr {'value': '0.13', 'unit': 's', 'uncertaintySTD': '0.04'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+159Pr {'value': '134', 'unit': 'ms', 'uncertaintySTD': '43'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1803 160Pr
 160Pr {'value': '0.17', 'unit': 's', 'uncertaintySTD': '0.14'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1805 161Pr
@@ -793,7 +793,7 @@
 1917 126Ag
 126Ag {'value': '52', 'unit': 'ms', 'uncertaintySTD': '10'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1918 159Nd
-159Nd {'value': '0.485', 'unit': 's', 'uncertaintySTD': '+0.039-0.02'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+159Nd {'value': '485', 'unit': 'ms', 'uncertaintySTD': '+39-20'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1919 123Ag
 123Ag {'value': '0.299', 'unit': 's', 'uncertaintySTD': '0.007'} {'value': 0.62, 'uncertaintySTD': '0.09'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1920 158Nd
@@ -825,11 +825,11 @@
 1980 88Br
 88Br {'value': '16.34', 'unit': 's', 'uncertaintySTD': '0.08'} {'value': 6.58, 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1991 165Pm
-165Pm {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+165Pm {'value': '0.30', 'unit': 's', 'uncertaintySTD': '+0.11-0.1'} {'value': 13.3, 'uncertaintySTD': '6.2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1992 161Pm
 161Pm {'value': '1.05', 'unit': 's', 'uncertaintySTD': '0.15'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1993 162Pm
-162Pm {'value': '0.63', 'unit': 's', 'uncertaintySTD': '0.18'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+162Pm {'value': '467', 'unit': 'ms', 'uncertaintySTD': '+38-18'} {'value': 1.79, 'uncertaintySTD': '0.19'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1994 163Pm
 163Pm {'value': '0.43', 'unit': 's', 'uncertaintySTD': '0.35'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 1995 164Pm
@@ -879,7 +879,7 @@
 2109 67V
 67V {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2111 63V
-63V {'value': '17', 'unit': 'ms', 'uncertaintySTD': '3'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+63V {'value': '19.6', 'unit': 'ms', 'uncertaintySTD': '1'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2114 141Sb
 141Sb {'value': '103', 'unit': 'ms', 'uncertaintySTD': '29'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2115 142Sb
@@ -977,7 +977,7 @@
 2332 82Ni
 82Ni {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2387 76Ni
-76Ni {'value': '0.238', 'unit': 's', 'uncertaintySTD': '+0.015-0.018'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+76Ni {'value': '234.7', 'unit': 'ms', 'uncertaintySTD': '2.7'} {'value': 14.0, 'uncertaintySTD': '3.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2388 77Ni
 77Ni {'value': '158.9', 'unit': 'ms', 'uncertaintySTD': '4.2'} {'value': 26.0, 'uncertaintySTD': '16'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2389 74Ni
@@ -1171,7 +1171,7 @@
 2800 64Mn
 64Mn {'value': '90', 'unit': 'ms', 'uncertaintySTD': '4'} {'value': 2.7, 'uncertaintySTD': '0.6'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2801 63Mn
-63Mn {'value': '0.275', 'unit': 's', 'uncertaintySTD': '0.004'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+63Mn {'value': '0.276', 'unit': 's', 'uncertaintySTD': '0.006'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2804 35Al
 35Al {'value': '38.3', 'unit': 'ms', 'uncertaintySTD': '0.4'} {'value': 38.0, 'uncertaintySTD': '2'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 2806 36Al
@@ -1347,7 +1347,7 @@
 3285 6H
 6H {'value': '1.55', 'unit': 'MeV', 'uncertaintySTD': '0.44'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 3286 7H
-7H {'value': '0.09', 'unit': 'MeV', 'uncertaintySTD': '+0.94-0.06'} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
+7H {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 3339 226At
 226At {'value': None, 'unit': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None} {'value': None, 'uncertaintySTD': None}
 3346 153Ce
